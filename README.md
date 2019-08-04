@@ -1,6 +1,16 @@
 # Google-Books-Search-Reach.js
 
-Google-Books-Search-Reach.jsGoogle-Books-Search-React.js
+
+
+## Getting Started
+
+
+This application is hosted on Heroku! Click the link below for a demo!
+
+
+ https://sheltered-oasis-50221.herokuapp.com/
+
+
 
 Overview
 
@@ -17,3 +27,13 @@ This is a SPA (Single Page Application) that uses react-router-dom to navigate, 
 
 
 This is a React-based Google Books Search application that requires the creation of React components, helper/util functions, and React lifecycle methods to query and display books based on user searches. Node, Express and MongoDB are also incorporated so that users can save books to review or purchase later.
+
+
+
+
+Technologies used
+React
+JSX
+ES6
+Bootstrap
+CSS
