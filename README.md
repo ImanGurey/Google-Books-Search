@@ -32,8 +32,14 @@ This is a React-based Google Books Search application that requires the creation
 
 
 Technologies used
+
+
 React
+
 JSX
+
 ES6
+
 Bootstrap
+
 CSS
